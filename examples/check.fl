@@ -1,0 +1,10 @@
+include("math.fl")
+
+int x = 10;
+int y = 20;
+
+if condition
+else if other_condition
+else
+
+return z + y;
