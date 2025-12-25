@@ -1,0 +1,17 @@
+include("math.fl")
+
+fn main
+
+int x = 10;
+int y = 20;
+
+z = x + y;
+z = z * x;
+
+print();
+
+if condition
+else if other_condition
+else
+
+return z + y;

@@ -1,0 +1,3 @@
+include("include.fl") : file;
+
+int x = 10;
